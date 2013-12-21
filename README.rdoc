@@ -6,7 +6,6 @@ This is an example app that shows a thread safety problem in js-routes.
 
 You will then see this error
 
-One or more errors were raised in the Javascript code on the page. If you don't care about these errors, you can ignore them by setting js_errors: false in your Poltergeist configuration (see documentation for details).
-
-Error: RuntimeError: can't add a new key into hash during iteration
-  (in /Users/alex/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/js-routes-0.9.6/app/assets/javascripts/js-routes.js.erb)
+      One or more errors were raised in the Javascript code on the page. If you don't care about these errors, you can ignore them by setting js_errors: false in your Poltergeist configuration (see documentation for details).
+      Error: RuntimeError: can't add a new key into hash during iteration
+        (in /Users/alex/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/js-routes-0.9.6/app/assets/javascripts/js-routes.js.erb)
